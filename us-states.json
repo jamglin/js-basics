@@ -1,0 +1,332 @@
+[
+    {
+        "name": "California",
+        "abbr": "CA",
+        "nickName": "The Golden Gate",
+        "capital": "Sacramento",
+        "population": 524943,
+        "importantCities": [
+            {
+                "name": "Los Angeles",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Baseball"
+            },
+            {
+                "name": "San Francisco",
+                "languagesSpoken": [
+                    "english",
+                    "chinese "
+                ],
+                "popularSports": "Soccer"
+            }
+        ],
+        "area": 163696,
+        "attractions": [
+            "San Francisco and the Golden Gate Bridge",
+            "Yosemite National Park",
+            " Disneyland"
+        ],
+        "popularDish": "Avacado Toast",
+        "timeZone": "PST"
+    },
+    {
+        "name": "Washington",
+        "abbr": "WA",
+        "nickName": "The Evergreen Gate",
+        "capital": "Olympia",
+        "population": 46478,
+        "importantCities": [
+            {
+                "name": "Seattle",
+                "languagesSpoken": [
+                    "english",
+                    "chinese"
+                ],
+                "popularSports": "Football"
+            },
+            {
+                "name": "Vancouver",
+                "languagesSpoken": [
+                    "english",
+                    "french"
+                ],
+                "popularSports": "Hockey"
+            }
+        ],
+        "area": 71298,
+        "attractions": [
+            "Olympic National Park",
+            "Seattle Center and the Space Needle",
+            " San Juan Islands"
+        ],
+        "popularDish": "Seafood Chowder",
+        "timeZone": "EST"
+    },
+    {
+        "name": "New York",
+        "abbr": "NY",
+        "nickName": "The Empire State",
+        "capital": "Albany",
+        "population": 97856,
+        "importantCities": [
+            {
+                "name": "Buffalo",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Football"
+            },
+            {
+                "name": "Rochester",
+                "languagesSpoken": [
+                    "english",
+                    "spanish "
+                ],
+                "popularSports": "Ice Hockey"
+            }
+        ],
+        "area": 54555,
+        "attractions": [
+            "Times Square",
+            "New York Harbor",
+            "Statue of Liberty"
+        ],
+        "popularDish": "Bagels",
+        "timeZone": "EST"
+    },
+    {
+        "name": "Texas",
+        "abbr": "TX",
+        "nickName": "The Lone start State",
+        "capital": "Austin",
+        "population": 961855,
+        "importantCities": [
+            {
+                "name": "Houston",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Football"
+            },
+            {
+                "name": "San Antonio",
+                "languagesSpoken": [
+                    "english",
+                    "spanish "
+                ],
+                "popularSports": "Basketball"
+            }
+        ],
+        "area": 268596,
+        "attractions": [
+            "San Antonio's River Walk",
+            "The Alamo",
+            "Space Center Houston"
+        ],
+        "popularDish": "Smoked Brisket",
+        "timeZone": "CST"
+    },
+    {
+        "name": "Florida",
+        "abbr": "FL",
+        "nickName": "The Sunshine State",
+        "capital": "Tallahassee",
+        "population": 196169,
+        "importantCities": [
+            {
+                "name": "Miami",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Basketball"
+            },
+            {
+                "name": "Tampa",
+                "languagesSpoken": [
+                    "english",
+                    "Spanish "
+                ],
+                "popularSports": "Football"
+            }
+        ],
+        "area": 65758,
+        "attractions": [
+            "Walt Disney World",
+            "Kennedy Space Center",
+            "Universal Studios"
+        ],
+        "popularDish": "Key Lime Pie",
+        "timeZone": "EST"
+    },
+    {
+        "name": "Pennsylvania",
+        "abbr": "PA",
+        "nickName": "Keystone State",
+        "capital": "Harrisburg",
+        "population": 49528,
+        "importantCities": [
+            {
+                "name": "Philadelphia",
+                "languagesSpoken": [
+                    "english",
+                    "french"
+                ],
+                "popularSports": "Baseball"
+            },
+            {
+                "name": "Pittsburgh",
+                "languagesSpoken": [
+                    "english",
+                    "german"
+                ],
+                "popularSports": "Soccer"
+            }
+        ],
+        "area": 46055,
+        "attractions": [
+            "Independence National Park and the Liberty Bell",
+            "Hershey Park",
+            "Philadelphia Museum of Art"
+        ],
+        "popularDish": "Philly Cheesesteaks",
+        "timeZone": "EST"
+    },
+    {
+        "name": "Michigan",
+        "abbr": "MI",
+        "nickName": "Great Lakes State",
+        "capital": "Lansing",
+        "population": 112644,
+        "importantCities": [
+            {
+                "name": "Dearborn Heights",
+                "languagesSpoken": [
+                    "english",
+                    "arabic"
+                ],
+                "popularSports": "Soccer"
+            },
+            {
+                "name": "Troy city",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Baseball"
+            }
+        ],
+        "area": 96714,
+        "attractions": [
+            "Mackinac Island",
+            "Sleeping Bear Dunes National Lakeshore and Lake Michigan",
+            "Pictured Rocks National Seashore"
+        ],
+        "popularDish": "Pasty",
+        "timeZone": "EST"
+    },
+    {
+        "name": "New Jersey",
+        "abbr": "NJ",
+        "nickName": "Garden State",
+        "capital": "Trenton",
+        "population": 84913,
+        "importantCities": [
+            {
+                "name": "Newark",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Hockey"
+            },
+            {
+                "name": "Jersey City",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Basketball"
+            }
+        ],
+        "area": 8723,
+        "attractions": [
+            "Liberty State Park",
+            "The Hudson River Waterfront Walkway",
+            " Island Beach State Park"
+        ],
+        "popularDish": "disco fries",
+        "timeZone": "EST"
+    },
+    {
+        "name": "Virginia",
+        "abbr": "VA",
+        "nickName": "Old Dominion State",
+        "capital": "Richmond",
+        "population": 226610,
+        "importantCities": [
+            {
+                "name": "Virginia Beach",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Hockey"
+            },
+            {
+                "name": "Richmond",
+                "languagesSpoken": [
+                    "english",
+                    "german"
+                ],
+                "popularSports": "Baseball"
+            }
+        ],
+        "area": 42775,
+        "attractions": [
+            "Shenandoah National Park and Skyline Drive",
+            "Colonial Williamsburg",
+            " Virginia Beach"
+        ],
+        "popularDish": "peanut soup",
+        "timeZone": "EST"
+    },
+    {
+        "name": "Georgia",
+        "abbr": "GA",
+        "nickName": "Old Dominion State",
+        "capital": "Atlanta",
+        "population": 498715,
+        "importantCities": [
+            {
+                "name": "Atlanta",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Baseball"
+            },
+            {
+                "name": "Columbus",
+                "languagesSpoken": [
+                    "english",
+                    "spanish"
+                ],
+                "popularSports": "Football"
+            }
+        ],
+        "area": 59425,
+        "attractions": [
+            "Georgia Aquarium, Atlanta",
+            "Savannah Historic District",
+            " Atlanta Botanical Garden"
+        ],
+        "popularDish": "Peach Cobbler",
+        "timeZone": "EST"
+    }
+]

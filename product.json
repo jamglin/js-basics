@@ -1,0 +1,17 @@
+{
+    "name": "iphone 13 pro max",
+    "price": "$1200.00",
+    "year": 2022,
+    "memory": "512 GB",
+    "features": [
+        "smart phone capabilities",
+        "camera",
+        "talk",
+        "gps"
+    ],
+    "deviceDetails": {
+        "name": "ios",
+        "version": 14.2,
+        "releaseDate": "09/09/2021"
+    }
+}

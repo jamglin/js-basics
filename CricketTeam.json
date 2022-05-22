@@ -1,0 +1,230 @@
+[
+    {
+        "name": "India",
+        "board": "BCCI",
+        "headcoach": "Ravi Shastri",
+        "captain": "Virat Kohli",
+        "worldcupwon": 1,
+        "wicketkeeper": "Rishab Pant",
+        "players": [
+            {
+                "name": "Virat Kohli",
+                "dob": "1988-11-05",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm medium"
+            },
+            {
+                "name": "Rohit Sharma",
+                "dob": "1987-30-04",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm off-spin"
+            },
+            {
+                "name": "Ravichandran Ashwin",
+                "dob": "1986-17-09",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm off-spin"
+            },
+            {
+                "name": "Jasprit Bumrah",
+                "dob": "1993-06-12",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm fast-medium"
+            },
+            {
+                "name": "Rahul Chahar",
+                "dob": "1999-04-08",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm leg break"
+            },
+            {
+                "name": "Varun Chakravarthy",
+                "dob": "1991-29-08",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm leg break"
+            },
+            {
+                "name": "Ravindra Jadeja",
+                "dob": "1988-06-12",
+                "batting": "left",
+                "bowlingstyle": "Slow left-arm orthodox"
+            },
+            {
+                "name": "Ishan Kishan",
+                "dob": "1998-18-07",
+                "batting": "left",
+                "bowlingstyle": "-"
+            },
+            {
+                "name": "Bhuvneshwar Kumar",
+                "dob": "1990-05-02",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm medium-fast"
+            },
+            {
+                "name": "KL Rahul",
+                "dob": "1992-18-04",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm medium"
+            },
+            {
+                "name": "Hardik Pandya",
+                "dob": "1993-11-10",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm medium fast"
+            }
+        ]
+    },
+    {
+        "name": "England",
+        "board": "ECB",
+        "headcoach": "Brendon McCullum",
+        "captain": "Eoin Morgan",
+        "worldcupwon": 1,
+        "wicketkeeper": "Alan Knott",
+        "players": [
+            {
+                "name": "Eoin Morgan",
+                "dob": "1986-10-09",
+                "batting": "Left",
+                "bowlingstyle": "Right-arm medium"
+            },
+            {
+                "name": "Jos Buttler",
+                "dob": "1990-08-09",
+                "batting": "Right",
+                "bowlingstyle": "-"
+            },
+            {
+                "name": "Moeen Ali",
+                "dob": "1987-18-06",
+                "batting": "Right",
+                "bowlingstyle": "-"
+            },
+            {
+                "name": "Tom Curran",
+                "dob": "1995-12-03",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm fast-medium"
+            },
+            {
+                "name": "Chris Jordan",
+                "dob": "1988-04-10",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm fast-medium"
+            },
+            {
+                "name": "Liam Livingstone",
+                "dob": "1993-04-08",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm leg break"
+            },
+            {
+                "name": "Dawid Malan",
+                "dob": "1983-03-09",
+                "batting": "left",
+                "bowlingstyle": "Right-arm leg break"
+            },
+            {
+                "name": "Tymal Mills",
+                "dob": "1992-12-08",
+                "batting": "Right",
+                "bowlingstyle": "Left-arm fast"
+            },
+            {
+                "name": "Adil Rashid",
+                "dob": "1988-17-02",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm leg break"
+            },
+            {
+                "name": "Jason Roy",
+                "dob": "1990-21-07",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm medium"
+            },
+            {
+                "name": "Reece Topley",
+                "dob": "1994-21-02",
+                "batting": "Right",
+                "bowlingstyle": "Left-arm medium-fast"
+            }
+        ]
+    },
+    {
+        "name": "Australia",
+        "board": "CA",
+        "headcoach": "Andrew McDonald",
+        "captain": "Aaron Finch ",
+        "worldcupwon": 1,
+        "wicketkeeper": "Josh Inglis",
+        "players": [
+            {
+                "name": "Aaron Finch ",
+                "dob": "1986-17-11",
+                "batting": "Right",
+                "bowlingstyle": "Slow left-arm orthodox"
+            },
+            {
+                "name": "Pat Cummins",
+                "dob": "1993-08-05",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm fast"
+            },
+            {
+                "name": "Ashton Agar",
+                "dob": "1993-14-10",
+                "batting": "Left",
+                "bowlingstyle": "Slow left-arm orthodox"
+            },
+            {
+                "name": "Josh Hazlewood",
+                "dob": "1991-08-01",
+                "batting": "Left",
+                "bowlingstyle": "Right-arm fast-medium"
+            },
+            {
+                "name": "Josh Inglis",
+                "dob": "1995-04-03",
+                "batting": "Right",
+                "bowlingstyle": "-"
+            },
+            {
+                "name": "Mitchell Marsh",
+                "dob": "1991-20-10",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm fast-medium"
+            },
+            {
+                "name": "Glenn Maxwell",
+                "dob": "1988-14-10",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm off-spin"
+            },
+            {
+                "name": "Kane Richardson",
+                "dob": "1991-12-02",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm fast-medium"
+            },
+            {
+                "name": "Steven Smith",
+                "dob": "1989-02-06",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm leg break"
+            },
+            {
+                "name": "Mitchell Starc",
+                "dob": "1990-30-01",
+                "batting": "Left",
+                "bowlingstyle": "Left-arm fast"
+            },
+            {
+                "name": "Marcus Stoinis",
+                "dob": "1989-16-08",
+                "batting": "Right",
+                "bowlingstyle": "Right-arm medium-fast"
+            }
+        ]
+    }
+]
